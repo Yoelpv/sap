@@ -1,0 +1,5 @@
+CLASS zbp_cds_zpaciente_mmn DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zcds_zpaciente_mmn.
+ENDCLASS.
+
+CLASS zbp_cds_zpaciente_mmn IMPLEMENTATION.
+ENDCLASS.

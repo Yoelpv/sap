@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition CDS_ZPACIENTE_MMN'
+define service ZSD_ZCDS_ZPACIENTE_MMN {
+  expose ZCDS_ZPACIENTE_MMN;
+}
